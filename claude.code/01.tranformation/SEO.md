@@ -18,7 +18,7 @@ Before you hit "Open Shop," you need to claim your digital territory. If the exa
 *   **Your Strategy:** Aim for variations that sound professional. 
     *   If `AfternoonFinance` is taken, try: `AfternoonFinanceCo`, `AfternoonFinanceShop`, or `AfternoonFinanceGuides`.
     *   **Pro Tip:** Check if the domain name is available (e.g., `AfternoonFinance.com`). Even if you aren't building a website yet, buying the domain now for $12/year prevents someone else from buying it later when your shop gets popular.
-*   **Check List:** Search **Etsy, Instagram, Pinterest, and TikTok.** You want the same name across all platforms so customers can find you easily after they buy their first template from your shop.
+*   **Check List:** Search **Etsy, Instagram, Pinterest, KDP, and TikTok.** You want the same name across all platforms so customers can find you easily after they buy their first template from your shop.
 
 ### 3. SEO: "Reverse-Engineer" the Search Bar
 Etsy is a search engine, not a storefront. Customers will find your products by searching for their *problem*, not your brand name.
